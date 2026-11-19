@@ -6,16 +6,21 @@ Project Overview
 
 This project focuses on analyzing E-Commerce sales data using Microsoft Excel and Power Query. It involves data cleaning, transformation, and visualization to understand sales performance, customer behavior, and business trends.
 
+
+
 Tools Used
 Microsoft Excel
 Power Query
 Pivot Tables & Pivot Charts
 Slicers and Interactive Dashboard
+
+
 Data Cleaning
 Removed unnecessary titles from customer names.
 Replaced and standardized text values.
 Filtered and organized customer records.
 Prepared data for analysis and visualization.
+
 Dashboard Highlights
 Total Sales and Order Quantity
 Average Customer Age and Discount
@@ -25,12 +30,16 @@ Maximum Discounts by Product Category
 Customer Loyalty Analysis
 Payment Type Distribution
 Yearly Sales Comparison
+
+
 Key Insights
 Total Sales: 21.75 Lakhs
 Total Orders: 2,000
 Average Customer Age: 42
 Average Discount: 15%
 North is the highest-performing region.
+
+
 Objective
 Analyze overall sales performance.
 Identify top-performing products and categories.
