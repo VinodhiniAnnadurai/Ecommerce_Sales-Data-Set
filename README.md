@@ -9,13 +9,19 @@ This project focuses on analyzing E-Commerce sales data using Microsoft Excel an
 
 
 Tools Used
-Microsoft Excel
-Power Query
-Pivot Tables & Pivot Charts
-Slicers and Interactive Dashboard
+
+Microsoft Excel 
+
+Power Query 
+
+Pivot Tables & Pivot Charts 
+
+Slicers and Interactive Dashboard 
 
 
 Data Cleaning
+
+
 Removed unnecessary titles from customer names.
 Replaced and standardized text values.
 Filtered and organized customer records.
