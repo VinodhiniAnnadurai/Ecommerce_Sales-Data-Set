@@ -41,6 +41,7 @@ North is the highest-performing region.
 
 
 Objective
+
 Analyze overall sales performance.
 Identify top-performing products and categories.
 Understand customer purchasing behavior.
